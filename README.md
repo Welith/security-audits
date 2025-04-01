@@ -28,11 +28,11 @@ Check out my sherlock profile [here](https://audits.sherlock.xyz/watson/0xb0k0).
 |    | **Protocol** | Type | Findings | Report | Date |
 |:--:|-----------------|:----------------:|:------------------:|:------------------:|:------------------------:|
 | 22    | [Rova]()      |   Launchpad      | 1M (Top 3 🏆) | [Soon]()           | 02.2025    |
-| 21    | [IQ AI]()      |   Tokenized agents for DeFi      | 1M (Top 5) | [Soon]()           | 01.2025    |
-| 20    | [Liquid Ron]()      |   Automate user staking actions and unlocks your liquidity for RON     | 1H, 2M (Top5) | [Soon]()           | 01.2025    |
+| 21    | [IQ AI]()      |   Tokenized agents for DeFi      | 1M (Top 5) | [Report](https://code4rena.com/reports/2025-01-iq-ai)           | 01.2025    |
+| 20    | [Liquid Ron]()      |   Automate user staking actions and unlocks your liquidity for RON     | 1H, 2M (Top5) | [Report](https://code4rena.com/reports/2025-01-liquid-ron)           | 01.2025    |
 | 19    | [Plazza Finance](https://audits.sherlock.xyz/contests/682)      |   Bonds and Leverage on Base     | 2H,5M | [Report](https://audits.sherlock.xyz/contests/682/report)           | 01.2025    |
-| 18    | [SecondSwap]()      |   Unlocking liquidity for illiquid assets     | 1H,1M | Private           | 12.2024    |
-| 17    | [Lambo.Win]()      |   Launchpad     | 1H | Private           | 12.2024    |
+| 18    | [SecondSwap]()      |   Unlocking liquidity for illiquid assets     | 1H,1M | [Report](https://code4rena.com/reports/2024-12-secondswap)           | 12.2024    |
+| 17    | [Lambo.Win]()      |   Launchpad     | 1H | [Report](https://code4rena.com/reports/2024-12-lambowin)           | 12.2024    |
 | 16    | [Oku](https://audits.sherlock.xyz/contests/641)      |   CeFi order types to DeFi     | 1H,1M | [Report](https://audits.sherlock.xyz/contests/641/report)           | 12.2024    |
 | 15    | [Superfluid](https://audits.sherlock.xyz/contests/648?filter=questions)      |    Money Streaming Protocol     | 1H (Top 5 🏆) | [Report](https://audits.sherlock.xyz/contests/648/report)           | 11.2024    |
 | 14    | [vVv](https://audits.sherlock.xyz/contests/647)      |     Launchpad - Investments & Token distribution    | 1H (Top 1 🏆) | [Report](https://audits.sherlock.xyz/contests/647/report)           | 11.2024    |
