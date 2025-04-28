@@ -27,6 +27,7 @@ Check out my sherlock profile [here](https://audits.sherlock.xyz/watson/0xb0k0).
 
 |    | **Protocol** | Type | Findings | Report | Date |
 |:--:|-----------------|:----------------:|:------------------:|:------------------:|:------------------------:|
+| 23    | [Nudge]()      |   Launchpad      | 1M | [Soon]()           | 02.2025    |
 | 22    | [Rova]()      |   Launchpad      | 1M (Top 3 🏆) | [Soon]()           | 02.2025    |
 | 21    | [IQ AI]()      |   Tokenized agents for DeFi      | 1M (Top 5) | [Report](https://code4rena.com/reports/2025-01-iq-ai)           | 01.2025    |
 | 20    | [Liquid Ron]()      |   Automate user staking actions and unlocks your liquidity for RON     | 1H, 2M (Top5) | [Report](https://code4rena.com/reports/2025-01-liquid-ron)           | 01.2025    |
