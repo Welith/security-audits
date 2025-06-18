@@ -1,9 +1,9 @@
 
 # About Me
 
-Experienced software engineer with 7 years of production experience securing fi nancial infrastructure, transitioning into Web3 security. I specialize in securing DeFi projects and bringing a wealth of security-fi rst engineering practices to blockchain technology. I am an active smart contract security researcher and bug hunter, with hands-on experience in Solidity. Combining traditional fi nance security expertise with emerging Web3 security, I excel at identifying and preventing vulnerabilities in blockchain protocols, currently identified ~50 H/M bugs.
+Experienced software engineer with 7 years of production experience securing financial infrastructure, transitioned into Web3 security. I specialize in securing DeFi projects and bringing a wealth of security-first engineering practices to blockchain technology. I am an active smart contract security researcher and bug hunter, with hands-on experience in Solidity. Combining traditional finance security expertise with emerging Web3 security, I excel at identifying and preventing vulnerabilities in blockchain protocols, and have currently identified ~70 H/M bugs.
 
-Currently part of the [056 Security](https://zerofivesix.xyz/) team.
+Security Researcher at [OakSecurity](https://www.oaksecurity.io/).
 
 ## Book me
 
@@ -15,18 +15,22 @@ If you have any questions or are seeking a security review for your project, fee
 
 ## My Work
 
-Check out my sherlock profile [here](https://audits.sherlock.xyz/watson/0xb0k0).
+Check out my Sherlock profile [here](https://audits.sherlock.xyz/watson/0xb0k0).
 
 ### Private Engagements
 
 |    | **Protocol** | Type | Findings | Report | Date |
 |:--:|-----------------|:----------------:|:------------------:|:------------------:|:------------------------:|
 | 1     | [Ethos](https://x.com/ethos_network) | Ethos Financial Contracts V1| 4C,2H,4M |     [Open](https://github.com/056Security/audits/blob/main/private/Ethos-security-review.pdf)       | 11.2024    |
+| 2     | [Cypher](https://cypherhq.io/) | Vesting | 1C,2H,4M |     [Soon]()       | 05.2025    |
+| 3     | [NodeOps](https://nodeops.network/) | Vesting + Staking | 2C,5H,5M |     [Soon]()       | 06.2025    |
 
 ### Public Competitions
 
 |    | **Protocol** | Type | Findings | Report | Date |
 |:--:|-----------------|:----------------:|:------------------:|:------------------:|:------------------------:|
+| 25    | [RAAC](https://raac.io/)      |   RWA      | 15H, 12M | [Report](https://codehawks.cyfrin.io/c/2025-02-raac/results?lt=contest&page=2&sc=reward&sj=reward&t=report)           | 03.2025    |
+| 24    | [Colorpool]()      |   DEX      | 1H, 3M | [Private]()           | 03.2025    |
 | 23    | [Nudge]()      |   Launchpad      | 1M | [Soon]()           | 02.2025    |
 | 22    | [Rova]()      |   Launchpad      | 1M (Top 3 🏆) | [Soon]()           | 02.2025    |
 | 21    | [IQ AI]()      |   Tokenized agents for DeFi      | 1M (Top 5) | [Report](https://code4rena.com/reports/2025-01-iq-ai)           | 01.2025    |
