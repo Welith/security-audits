@@ -29,6 +29,8 @@ Check out my Sherlock profile [here](https://audits.sherlock.xyz/watson/0xb0k0).
 
 |    | **Protocol** | Type | Findings | Report | Date |
 |:--:|-----------------|:----------------:|:------------------:|:------------------:|:------------------------:|
+| 27    | [Superfluid](https://claim.superfluid.org/)      |   Asset stream      | 1M (Top 10) | [Report](https://audits.sherlock.xyz/contests/968/report)           | 05.2025    |
+| 26    | [Burve]((https://audits.sherlock.xyz/contests/858))      |   DEX      | (Top 20) | [Report](https://audits.sherlock.xyz/contests/858/report)           | 05.2025    |
 | 25    | [RAAC](https://raac.io/)      |   RWA      | 15H, 12M (Top 10) | [Report](https://codehawks.cyfrin.io/c/2025-02-raac/results?lt=contest&page=2&sc=reward&sj=reward&t=report)           | 03.2025    |
 | 24    | [Colorpool]()      |   DEX      | 1H, 3M (Top 10) | [Private]()           | 03.2025    |
 | 23    | [Nudge]()      |   Launchpad      | 1M (Top 10) | [Soon]()           | 02.2025    |
